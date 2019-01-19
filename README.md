@@ -1,2 +1,2 @@
-# pytes_t23
+# pytest_23
 this just for study python study
